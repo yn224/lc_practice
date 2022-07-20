@@ -1,1 +1,2 @@
-# lc_practice
+# Leetcode Practice
+Repository for keeping records of leetcode problems.
